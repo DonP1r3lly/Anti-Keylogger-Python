@@ -3,7 +3,7 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 *Python required
 
 # 1. Basic
--libraries: pip install psutil
+- libraries: pip install psutil
 - Detecting running Python Processes
 
 
