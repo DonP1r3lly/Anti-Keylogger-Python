@@ -10,7 +10,7 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 # 2. Advanced
 - Detecting running Python Processes
 - Kill a process by PID
-- Exceptions added: ProcessLookupError, PermissionError, OSError
+- Exceptions added: ProcessLookupError, PermissionError, OSError, ValueError
 - Menu Added
 
 
