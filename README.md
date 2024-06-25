@@ -22,10 +22,13 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 - Exceptions added: NoSuchProcess, AccessDenied, ZombieProcess
 
 
-# 4. Master 
-- 
-- 
-- 
+# 4. Master V 1.0
+Soon... 
+
+- Improved detection and threading
+- Improved Database
+- Includes API for online verification
+- Detection of active processes, files, and more verification tools
 
 
 # LICENSE:
