@@ -28,7 +28,7 @@ Soon...
 - Improved Database
 - Includes API for online verification
 - Detection of active processes, files, and more verification tools
-- For now this version is ONLY available for business contacts only
+- For now this version is ONLY available for business contacts
 
 
 
