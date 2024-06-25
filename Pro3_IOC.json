@@ -1,0 +1,17 @@
+
+{
+    "process_name": [
+        "keylogger.exe",
+        "malware.exe",
+        "spyware.exe",
+        "logger.exe",
+        "ransomware.exe",
+        "keygen.exe",
+        "sample.exe"
+        
+    ],
+    "script_name": [
+        "malware_script.py",
+        "keylogger_script.py",
+        "Pro3b_anti_keylogger.py"]
+}
