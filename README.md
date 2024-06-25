@@ -15,13 +15,15 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 
 
 # 3. Pro 
-Soon...
+- added search IOC option (IOC: Indicator of Compromise)
+- Database offline .Json
+- Due to legal reasons malicious program names cannot be provided. You can modify the list and search for the names yourself
 
 
 # 4. Master 
-Soon...
-
-
+- 
+- 
+- 
 
 
 # LICENSE:
