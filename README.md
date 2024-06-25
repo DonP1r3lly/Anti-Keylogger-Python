@@ -23,12 +23,13 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 
 
 # 4. Master V 1.0
-Soon... 
-
+Soon...
 - Improved detection and threading
 - Improved Database
 - Includes API for online verification
 - Detection of active processes, files, and more verification tools
+- For now this version is ONLY available for business contacts only
+
 
 
 # LICENSE:
