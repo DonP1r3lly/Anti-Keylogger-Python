@@ -1,4 +1,4 @@
-# Basic Anti-Keylogger
+# Advanced Anti-Keylogger
 # June 2024
 # GitHub (DonP1r3lly)
 
