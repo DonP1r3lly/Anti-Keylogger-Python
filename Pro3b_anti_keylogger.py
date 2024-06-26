@@ -79,6 +79,7 @@ def main():
         print("2. Kill a process by PID")
         print("3. Search IOC")
         print("4. Exit")
+        print("5. This code was made by DonP1r3lly (GitHub)")
 
         option = input("Enter your choice (1/2/3/4): ")
 
