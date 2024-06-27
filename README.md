@@ -24,10 +24,11 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 
 # 4. Master V 1.0
 Soon...
-- Improved detection and threading
-- Improved Database
-- Includes API for online verification
-- Detection of active processes, files, and more verification tools
+- Design for WINDOWS 11 but can be modified for Linux with some changes.
+- Improved detection and threading to (ALL PROCESESS)
+- Improved Database .Json (structure)
+- Includes API for online verification 
+- Detection of active processes, files, directories, and more.
 - For now this version is ONLY available for business contacts
 
 
