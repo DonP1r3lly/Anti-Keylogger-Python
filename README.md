@@ -25,7 +25,7 @@ In this repository we will explore basic/advanced/Pro/Master solutions to fight 
 # 4. Master V 1.0
 Soon...
 - Design for WINDOWS 11 but can be modified for Linux with some changes.
-- Improved detection and threading to (ALL PROCESESS)
+- Improved detection and threading to (ALL PROCESSES)
 - Improved Database .Json (structure)
 - Includes API for online verification 
 - Detection of active processes, files, directories, and more.
